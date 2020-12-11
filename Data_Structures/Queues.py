@@ -15,9 +15,9 @@ print(list_of_queue) #when we print it, we see elements inside a list
  
 # Removing elements from the queue
 print()
-print(list_of_queue.pop(0))
-print(list_of_queue.pop(0))
-print(list_of_queue.pop(0)) #after dequeuing elements from the list, they get arranged in FIFO order
+print(list_of_queue.pop())
+print(list_of_queue.pop())
+print(list_of_queue.pop()) #after dequeuing elements from the list, they get arranged in FIFO order
 
 
 
