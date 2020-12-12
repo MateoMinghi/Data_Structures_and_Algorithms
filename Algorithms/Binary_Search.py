@@ -1,4 +1,4 @@
-#binary search
+#binary search is a divide and conquer algorithm
 #0(log n)
 sequence = [2,4,5,6,7,8,9,10,12,13,14]
 item = 5
