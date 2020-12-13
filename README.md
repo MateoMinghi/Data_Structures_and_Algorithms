@@ -17,23 +17,22 @@ We can divide data structures into three categories: list-based collections, has
 ### List-Based Collections: 
 - [Arrays](#Arrays)
 
-- Linked Lists
+- [Linked Lists](#Linked Lists)
 
-- Stacks
+- [Stacks](#Stacks)
 
-- Queues
+- [Queues](#Queues)
 
 ### Hashes:
-- Hash Tables
+- [Hash Tables](#Hash Tables)
 
 ### Graphs:
-- Trees
+- [Trees](#Trees)
 
-- Binary Trees
+- [Binary Trees](#Binary Trees)
 
-- Binary Search Trees
+- [Binary Search Trees](#Binary Search Trees)
 
-- Graphs
 
 ## Arrays
 Oversimplifying its definition, we can call an array a type of list. 
@@ -215,6 +214,13 @@ Binary Search Trees (BST not BTS like the Kpop band) are types of binary trees t
 
 # Algorithms
 An algorithm could be defined as a series of instructions to solve a problem.
+
+- [Binary Search](#Binary Search)
+
+- [Selection Sort](#Selection Sort)
+
+- [Merge Sort](#Merge Sort)
+
 
 *These problems can go from sorting an array, to finding the shortest path in weighted graphs*
 
