@@ -37,7 +37,7 @@ Oversimplifying its definition, we can call an array a type of list.
 
 In much more depth, arrays are chuncks of memory that store indexed series of data. 
 
-<p align="left"> <img src="https://github.com/MateoMinghi/Data_Structures_and_Algorithms/blob/main/imgs/array.jpg" width="350"/></p> 
+<p align="left"> <img src="https://github.com/MateoMinghi/Data_Structures_and_Algorithms/blob/main/imgs/arrays.jpg" width="350"/></p> 
 
 
 Depending on the programming language, arrays can store different data types, can have fixed sizes and can store duplicated values. But, again, depends on the language.
@@ -91,7 +91,7 @@ This particular type of linked list is very useful for implementing trees and ot
 ## Stacks
 Stacks are a type linear data structure that follows the particular order in which elements are added.
 
-<p align="left"> <img src="https://github.com/MateoMinghi/Data_Structures_and_Algorithms/blob/main/imgs/stack.png" width="350"/></p> 
+<p align="left"> <img src="https://github.com/MateoMinghi/Data_Structures_and_Algorithms/blob/main/imgs/stacks.png" width="350"/></p> 
 
 
 Stacks can have a Last In, First Out (LIFO) order; or a First In, Last Out (FILO) order. 
