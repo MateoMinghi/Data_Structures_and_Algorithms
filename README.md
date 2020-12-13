@@ -15,7 +15,7 @@ We can divide data structures into three categories: list-based collections, has
 *It is important to point out that there are many more data structures, but the ones mentioned here are the most common ones.*
 
 ### List-Based Collections: 
-- Arrays
+- [Arrays](#Arrays)
 
 - Linked Lists
 
