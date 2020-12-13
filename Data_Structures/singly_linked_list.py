@@ -4,21 +4,17 @@
 
 class Node:   #The objects will be the nodes that go into the list
   
-   
     def __init__(self, data): 
         self.data = data  
         self.next = None  
   
-  
-
 class LinkedList:   #this class contains the methods to insert, remove, traverse or sort the list 
   
     # Function to initialize head 
     def __init__(self): 
         self.head = None
   
-    # This function prints contents of linked list 
-    def printList(self): 
+    def printList(self): # This function prints contents of linked list 
         temp = self.head 
         while (temp): 
             print (temp.data) 
@@ -28,7 +24,6 @@ class LinkedList:   #this class contains the methods to insert, remove, traverse
 
 if __name__=='__main__': 
   
-    # Start with the empty list 
     llist = LinkedList() 
   
     llist.head = Node(1) 
