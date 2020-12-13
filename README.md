@@ -211,7 +211,8 @@ Say that we want to scan an array using a linear search algorithm. This algorith
 
 Its extremely difficult to know the exact time an algorithm takes to run, since it depends on factors such as the computer's power, the programming language or the compiler/interpreter. Therefore we use aproximations like the O notation.
 
-#### agregar grafica de las notaciones
+![alt text](https://github.com/MateoMinghi/Data_Structures_and_Algorithms/blob/main/imgs/algorithmic_complexity.png)
+
 
 Algorithmic complexities in order (best to worst)
 
