@@ -17,21 +17,21 @@ We can divide data structures into three categories: list-based collections, has
 ### List-Based Collections: 
 - [Arrays](#Arrays)
 
-- [Linked Lists](#Linked)
+- [Linked Lists](#Linked_Lists)
 
 - [Stacks](#Stacks)
 
 - [Queues](#Queues)
 
 ### Hashes:
-- [Hash Tables](#Hash Tables)
+- [Hash Tables](#Hash_Tables)
 
 ### Graphs:
 - [Trees](#Trees)
 
-- [Binary Trees](#Binary Trees)
+- [Binary Trees](#Binary_Trees)
 
-- [Binary Search Trees](#Binary Search Trees)
+- [Binary Search Trees](#Binary_Search_Trees)
 
 
 ## Arrays
@@ -52,7 +52,7 @@ We acces its values with indexes, starting by 0.
 
 -Inserting an element: O(n)
 
-## Linked List
+## Linked_Lists
 A linked list is a group of nodes that have some knowledge on the next element. 
 
 <p align="left"> <img src="https://github.com/MateoMinghi/Data_Structures_and_Algorithms/blob/main/imgs/linked_list.png" width="70%"/></p> 
@@ -128,7 +128,7 @@ These can be implemented with arrays and linked lists.
 -Inserting an element: O(1)
 
 
-## Hash Tables
+## Hash_Tables
 A hash table is an associative data structure. It relates a key with a value through hash funcitons.
 
 <p align="left"> <img src="https://github.com/MateoMinghi/Data_Structures_and_Algorithms/blob/main/imgs/hash_table.png" width="350"/></p> 
@@ -180,7 +180,7 @@ Trees can be implemented with linked lists
 -Inserting an element: O(log (n))
 
 
-## Binary Trees
+## Binary_Trees
 They are just like trees, but a parent node can have a maximum of two children.
 
 <p align="left"> <img src="https://github.com/MateoMinghi/Data_Structures_and_Algorithms/blob/main/imgs/binary_tree.png" width="350"/></p> 
@@ -200,7 +200,7 @@ A binary tree can be full, complete, degenerate, perfect or balanced
 
 -Inserting an element: O(log (n))
 
-## Binary Search Trees
+## Binary_Search_Trees
 Binary Search Trees (BST not BTS like the Kpop band) are types of binary trees that are arranged in a particular way, so that the left child or the left subtree of a parent has smaller values than it; but the right child or right subtree has bigger values than it. 
 
 <p align="left"> <img src="https://github.com/MateoMinghi/Data_Structures_and_Algorithms/blob/main/imgs/binary_search_tree.png" width="350"/></p> 
@@ -215,11 +215,11 @@ Binary Search Trees (BST not BTS like the Kpop band) are types of binary trees t
 # Algorithms
 An algorithm could be defined as a series of instructions to solve a problem.
 
-- [Binary Search](#Binary Search)
+- [Binary Search](#Binary_Search)
 
-- [Selection Sort](#Selection Sort)
+- [Selection Sort](#Selection_Sort)
 
-- [Merge Sort](#Merge Sort)
+- [Merge Sort](#Merge_Sort)
 
 
 *These problems can go from sorting an array, to finding the shortest path in weighted graphs*
@@ -242,7 +242,7 @@ Algorithmic complexities in order (best to worst)
 4. O(n log(n))
 5. O(n^2)
 
-## Binary Search
+## Binary_Search
 This is one of the most common algorithms for finding a particular element inside a data structure.
 
 Binary search is a divide an conquer algorithm. 
@@ -255,7 +255,7 @@ Basically, what it does, is that it divides a sorted array into two parts. Then 
 - O(log (n))
 
 
-## Selection Sort
+## Selection_Sort
 
 As it was mentioned, binary search has to be executed on a sorted array. But what happens if the array isn't sorted? We can sort it with algorithms.
 
@@ -267,7 +267,7 @@ One of the most basic ones is called selection sort. What it does is that it sca
 - O(n^2)
 
 
-## Merge Sort
+## Merge_Sort
 
 Selection sort is very inneficient with big arrays. So we need to find a better solution. 
 
