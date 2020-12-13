@@ -1,3 +1,7 @@
+<div align="center">
+  <h1>Programación Dinámica y Estocástica con Python</h1>
+</div>
+
 # Data_Structures_and_Algorithms
 This repository contains information regarding data structures and common algorithms. 
 
@@ -37,7 +41,7 @@ Oversimplifying its definition, we can call an array a type of list.
 
 In much more depth, arrays are chuncks of memory that store indexed series of data. 
 
-<p align="left"> <img src="https://github.com/MateoMinghi/Data_Structures_and_Algorithms/blob/main/imgs/arrays.jpg" width="350"/></p> 
+<p align="left"> <img src="https://github.com/MateoMinghi/Data_Structures_and_Algorithms/blob/main/imgs/arrays.jpg" width="80%"/></p> 
 
 
 Depending on the programming language, arrays can store different data types, can have fixed sizes and can store duplicated values. But, again, depends on the language.
