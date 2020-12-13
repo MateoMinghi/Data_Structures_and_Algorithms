@@ -94,7 +94,7 @@ This particular type of linked list is very useful for implementing trees and ot
 ## Stacks
 Stacks are a type linear data structure that follows the particular order in which elements are added.
 
-<p align="left"> <img src="https://github.com/MateoMinghi/Data_Structures_and_Algorithms/blob/main/imgs/stacks.png" width="70%"/></p> 
+<p align="left"> <img src="https://github.com/MateoMinghi/Data_Structures_and_Algorithms/blob/main/imgs/stacks.png" width="60%"/></p> 
 
 
 Stacks can have a Last In, First Out (LIFO) order; or a First In, Last Out (FILO) order. 
@@ -114,7 +114,7 @@ Stacks can be implemented with arrays or linked lists.
 ## Queues
 Queues are really similar to stacks, but unlike them, in a queue the last element goes first.
 
-<p align="left"> <img src="https://github.com/MateoMinghi/Data_Structures_and_Algorithms/blob/main/imgs/queue.png" width="70%"/></p> 
+<p align="left"> <img src="https://github.com/MateoMinghi/Data_Structures_and_Algorithms/blob/main/imgs/queue.png" width="60%"/></p> 
 
 -enqueue = add an element
 
