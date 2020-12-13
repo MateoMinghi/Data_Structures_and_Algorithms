@@ -17,7 +17,7 @@ We can divide data structures into three categories: list-based collections, has
 ### List-Based Collections: 
 - [Arrays](#Arrays)
 
-- [Linked Lists](#Linked Lists)
+- [Linked Lists](#Linked List)
 
 - [Stacks](#Stacks)
 
@@ -52,7 +52,7 @@ We acces its values with indexes, starting by 0.
 
 -Inserting an element: O(n)
 
-## Linked Lists
+## Linked List
 A linked list is a group of nodes that have some knowledge on the next element. 
 
 <p align="left"> <img src="https://github.com/MateoMinghi/Data_Structures_and_Algorithms/blob/main/imgs/linked_list.png" width="70%"/></p> 
