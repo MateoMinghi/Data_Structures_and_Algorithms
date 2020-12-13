@@ -17,7 +17,7 @@ We can divide data structures into three categories: list-based collections, has
 ### List-Based Collections: 
 - [Arrays](#Arrays)
 
-- [Linked Lists](#Linked List)
+- [Linked Lists](#Linked)
 
 - [Stacks](#Stacks)
 
