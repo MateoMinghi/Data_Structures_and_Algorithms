@@ -6,7 +6,7 @@ This repository contains information regarding data structures and common algori
 
 The content of this repository is inspired by Udacity's course on Data Structures and Algorithms with Python, as well as MANY other resources.
 
-# Data Structures?
+# Data Structures
 
 Data structures are ways to organize and store data in order to use it in a more efficient way.
 
@@ -94,7 +94,7 @@ This particular type of linked list is very useful for implementing trees and ot
 ## Stacks
 Stacks are a type linear data structure that follows the particular order in which elements are added.
 
-<p align="left"> <img src="https://github.com/MateoMinghi/Data_Structures_and_Algorithms/blob/main/imgs/stacks.png" width="80%"/></p> 
+<p align="left"> <img src="https://github.com/MateoMinghi/Data_Structures_and_Algorithms/blob/main/imgs/stacks.png" width="70%"/></p> 
 
 
 Stacks can have a Last In, First Out (LIFO) order; or a First In, Last Out (FILO) order. 
@@ -114,7 +114,7 @@ Stacks can be implemented with arrays or linked lists.
 ## Queues
 Queues are really similar to stacks, but unlike them, in a queue the last element goes first.
 
-<p align="left"> <img src="https://github.com/MateoMinghi/Data_Structures_and_Algorithms/blob/main/imgs/queue.png" width="80%"/></p> 
+<p align="left"> <img src="https://github.com/MateoMinghi/Data_Structures_and_Algorithms/blob/main/imgs/queue.png" width="70%"/></p> 
 
 -enqueue = add an element
 
@@ -189,7 +189,7 @@ They are just like trees, but a parent node can have a maximum of two children.
 
 We can call the children 'left child' and 'right child'.
 
-A binary tree can be full, complete, degenerate, perfect and balanced
+A binary tree can be full, complete, degenerate, perfect or balanced
 
 <p align="left"> <img src="https://github.com/MateoMinghi/Data_Structures_and_Algorithms/blob/main/imgs/types_trees.png" width="80%"/></p> 
 
