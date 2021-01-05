@@ -1,4 +1,5 @@
-О(n^2)
+#bubble sort
+#О(n^2)
 def bubble(list_a):
   indexing_length = len(list_a) - 1 
   sorted = False 
