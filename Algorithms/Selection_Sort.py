@@ -1,21 +1,21 @@
 #Selection sort
 #O(n^2)
 
-list_a = [7,8,9,8,7,6,5,6,7,8,9,0]
+array_to_sort = [7,8,9,8,7,6,5,6,7,8,9,0]
 
-def selection_sort(list_a):
-  indexing_length = range(0, len(list_a)-1)
+def selection_sort(array_to_sort):
 
-  for i in indexing_length:
+  for i in range(0, len(array_to_sort)):
     min_value = i
 
-    for j in range(i+1, len(list_a)):
-      if list_a[j] < list_a[min_value]:
+    for j in range(i+1, len(array_to_sort)):
+      if array_to_sort[j] < array_to_sort[min_value]:
         min_value = j
     
     if min_value != i: 
-      list_a[min_value], list_a[i] = list_a[i], list_a[min_value]
+      array_to_sort[min_value], array_to_sort[i] = array_to_sort[i], array_to_sort[min_value]
   
-  return list_a
+  return array_to_sort
 
-print(selection_sort(list_a)) #prints the sorted list
+if __name__ == "__main__":
+  print(selection_sort(array_to_sort)) #prints the sorted list
