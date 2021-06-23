@@ -44,7 +44,7 @@ In much more depth, arrays are chuncks of memory that store indexed series of da
 
 Depending on the programming language, arrays can store different data types, can have fixed sizes and can store duplicated values. But, again, depends on the language.
 
-We acces its values with indexes, starting by 0.
+We access its values with indexes, starting by 0.
 
 -Accesing an element: O(1)
 
