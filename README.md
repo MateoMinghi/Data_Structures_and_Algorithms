@@ -91,7 +91,7 @@ This particular type of linked list is very useful for implementing trees and ot
 
 
 ## Stacks
-Stacks are a type linear data structure that follows the particular order in which elements are added.
+Stacks are a linear type of data structure that follows the particular order in which elements are added.
 
 <p align="left"> <img src="https://github.com/MateoMinghi/Data_Structures_and_Algorithms/blob/main/imgs/stacks.png" width="60%"/></p> 
 
