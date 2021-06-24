@@ -32,8 +32,7 @@ def mergeSort(arr):
             arr[k] = R[j] 
             j+= 1
             k+= 1
-  
-# driver code to test the above code 
+
 if __name__ == '__main__': 
     arr = [12, 11, 13, 5, 6, 7]  
     print ("Given array is:")  
